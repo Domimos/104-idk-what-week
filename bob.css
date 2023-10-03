@@ -1,0 +1,19 @@
+img{
+    width: 50%;
+}
+nav{
+    float: left;
+    margin-right: 1%;
+    height: 6000px;
+    width: 200px;
+    padding: 5px;
+    line-height: 30px;
+}
+body{
+    color: white;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+footer{
+    margin-right: 200px;
+}
